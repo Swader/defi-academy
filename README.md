@@ -1,0 +1,1 @@
+Static contents for defi.academy
