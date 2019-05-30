@@ -86,7 +86,8 @@
 	});
 
 	const discounts = {
-		"UBIKfriends" : "20%"
+		"UBIKfriends" : "20%",
+		"BlockadaFriends": "20%"
 	}
 
 	
