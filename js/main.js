@@ -87,7 +87,8 @@
 
 	const discounts = {
 		"UBIKfriends" : "20%",
-		"BlockadaFriends": "20%"
+		"BlockadaFriends": "20%",
+		"MrezaFriends": "20%"
 	}
 
 	
