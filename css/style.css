@@ -1137,3 +1137,14 @@ textarea.input {
 .partner-box {
   max-width: 300px;
 }
+
+.speaker-content h3 {text-decoration: underline; color: white;}
+
+a .speaker-content { background-color: #dd0a37aa !important;}
+
+.speaker.disabled img {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+.speaker.disabled .speaker-content {background-color: #333333aa !important;}

@@ -202,7 +202,7 @@ var options = {
 }
 
 // Init Map
-var map = new google.maps.Map( document.getElementById('map') , options);
+// var map = new google.maps.Map( document.getElementById('map') , options);
 
 // Set map marker
 var marker = new google.maps.Marker({
